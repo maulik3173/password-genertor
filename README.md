@@ -1,5 +1,7 @@
 # Password Generator
-![Password Generator Preview](https://github.com/maulik3173/password-generator/blob/main/image.png)
+
+![Password Generator Preview](https://github.com/maulik3173/password-genertor/blob/main/image.png)
+
 A simple **Password Generator** built using **React + Vite**.
 
 ## Features
